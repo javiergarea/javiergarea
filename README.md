@@ -10,6 +10,6 @@ iex(1)> javiergarea = %{
 ```
 
 <p float="middle">
-	<img src="https://github-readme-stats.vercel.app/api?username=javiergarea&theme=radical&show_icons=true" alt="Javier Garea's GitHub Stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiergarea&theme=radical&layout=compact&hide=html,jupyter%20notebook" alt="Javier Garea's Most Used Languages" />
+	<img src="https://github-readme-stats.vercel.app/api?username=javiergarea&show_icons=true" alt="Javier Garea's GitHub Stats" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiergarea&layout=compact&hide=html,jupyter%20notebook" alt="Javier Garea's Most Used Languages" />
 </p>
