@@ -1,16 +1,15 @@
-### Hi there 👋
+### Problem solver here! :love_you_gesture:
+```Elixir
+iex(1)> javiergarea = %{
+...(1)>		name: "Javier Garea",
+...(1)>		location: "A Coruña, Spain",
+...(1)>		languages: [:galician, :spanish, :english],
+...(1)>		programming_languages: [:erlang, :elixir, :python, :c],
+...(1)>		other_skills: [:git, :tdd, :latex, :answer_set_programming]
+...(1)> }
+```
 
-<!--
-**javiergarea/javiergarea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p float="middle">
+	<img src="https://github-readme-stats.vercel.app/api?username=javiergarea&theme=radical&show_icons=true" alt="Javier Garea's GitHub Stats" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiergarea&theme=radical&layout=compact&hide=html,jupyter%20notebook" alt="Javier Garea's Most Used Languages" />
+</p>
